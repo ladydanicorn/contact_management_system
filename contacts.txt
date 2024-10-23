@@ -1,0 +1,2 @@
+1234567890: {'name': 'Bob', 'phone': '1234567890', 'email': 'bob@bob.com', 'address': '123 Bob St', 'notes': 'Friend'}
+1234567891: {'name': 'Diane', 'phone': '1234567891', 'email': 'diane@neopets.com', 'address': '123 Apfel Lane', 'notes': 'Enemy'}
