@@ -1,4 +1,3 @@
-# file_operations.py
 def export_contacts(contacts):
     with open('contacts.txt', 'w') as file:
         for phone, details in contacts.items():
